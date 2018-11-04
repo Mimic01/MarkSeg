@@ -1,0 +1,152 @@
+Variables
+1 subtipo de cliente (ver L0)
+2 Numero de casas  1-10
+3 Numero de habitantes en el hogar 1 - 6
+4 Edad promedio (ver L1)
+5 Tipo de cliente (ver L2)
+6 Religion (1: catholic, 2: protestant, 3: other, 4: no religion)
+7 Estado civil (1: casado, 2: conviviendo, 3: otros)
+8 Tipo de familia: (1: soltero, 2: familia sin hijos, 3: familia con hijos)
+9 Educación Escolar (1: alta, 2: media, 3: baja)
+10 Tipo de trabajo (1: alto puesto, 2: emprendedor, 3: granjero, 4: Gerencia intermedia, 5: Obrero calificado, 6: obrero no calificado)
+11 Clase social (1: A, 2: B1, 3: B2, 4: C, 5: D)
+12 Tipo casa (1: arrienda, 2: dueño)
+13 # autos (1: un auto, 2: dos autos, 3: 0 autos)
+14 Tipo de salud (1: Fonasa, 2: Isapre)
+15 Ingreso promedio (1: bajo, 2: medio bajo, 3: medio, 4: medio alto, 5: alto)
+16 Average income
+17 Purchasing power class
+18 Contribution private third party insurance see L4
+19 Contribution third party insurance (firms) ...
+20 Contribution third party insurane (agriculture)
+21 Contribution car policies
+22 Contribution delivery van policies
+23 Contribution motorcycle/scooter policies
+24 Contribution lorry policies
+25 Contribution trailer policies
+26 Contribution tractor policies
+27 Contribution agricultural machines policies 
+28 Contribution moped policies
+29 Contribution life insurances
+30 Contribution private accident insurance policies
+31 Contribution family accidents insurance policies
+32 Contribution disability insurance policies
+33 Contribution fire policies
+34 Contribution surfboard policies
+35 Contribution boat policies
+36 Contribution bicycle policies
+37 Contribution property insurance policies
+38 Contribution social security insurance policies
+39 Number of private third party insurance 1 - 12
+40 Number of third party insurance (firms) ...
+41 Number of third party insurane (agriculture)
+42 Number of car policies
+43 Number of delivery van policies
+44 Number of motorcycle/scooter policies
+45 Number of lorry policies
+46 Number of trailer policies
+47 Number of tractor policies
+48 Number of agricultural machines policies
+49 Number of moped policies
+50 Number of life insurances
+51 Number of private accident insurance policies
+52 Number of family accidents insurance policies
+53 Number of disability insurance policies
+54 Number of fire policies
+55 Number of surfboard policies
+56 Number of boat policies
+57 Number of bicycle policies
+58 Number of property insurance policies
+59 Number of social security insurance policies
+60 Number of mobile home policies 0 - 1
+
+L0:
+1 High Income, expensive child
+2 Very Important Provincials
+3 High status seniors
+4 Affluent senior apartments
+5 Mixed seniors
+6 Career and childcare
+7 Dinki's (double income no kids)
+8 Middle class families
+9 Modern, complete families
+10 Stable family
+11 Family starters
+12 Affluent young families
+13 Young all american family
+14 Junior cosmopolitan
+15 Senior cosmopolitans
+16 Students in apartments
+17 Fresh masters in the city
+18 Single youth
+19 Suburban youth
+20 Etnically diverse
+21 Young urban have-nots
+22 Mixed apartment dwellers
+23 Young and rising
+24 Young, low educated 
+25 Young seniors in the city
+26 Own home elderly
+27 Seniors in apartments
+28 Residential elderly
+29 Porchless seniors: no front yard
+30 Religious elderly singles
+31 Low income catholics
+32 Mixed seniors
+33 Lower class large families
+34 Large family, employed child
+35 Village families
+36 Couples with teens 'Married with children'
+37 Mixed small town dwellers
+38 Traditional families
+39 Large religous families
+40 Large family farms
+41 Mixed rurals
+
+
+L1:
+1 20-30 years
+2 30-40 years
+3 40-50 years
+4 50-60 years
+5 60-70 years
+6 70-80 years
+
+
+L2:
+1 Successful hedonists
+2 Driven Growers
+3 Average Family
+4 Career Loners
+5 Living well
+6 Cruising Seniors
+7 Retired and Religeous
+8 Family with grown ups
+9 Conservative families
+10 Farmers
+
+
+L3:
+0 0%
+1 1 - 10%
+2 11 - 23%
+3 24 - 36%
+4 37 - 49%
+5 50 - 62%
+6 63 - 75%
+7 76 - 88%
+8 89 - 99%
+9 100%
+
+
+L4:
+0 f 0
+1 f 1 - 49
+2 f 50 - 99
+3 f 100 - 199
+4 f 200 - 499
+5 f 500 - 999
+6 f 1000 - 4999
+7 f 5000 - 9999
+8 f 10.000 - 19.999
+9 f 20.000 - ?
